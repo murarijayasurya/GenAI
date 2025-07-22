@@ -1,7 +1,7 @@
 import requests
 
 # Replace this with your actual Gemini API key (make sure not to commit it publicly!)
-GEMINI_API_KEY = "AIzaSyCp-Lueb9tFQbqxQwIcj9On7zPYG9gah_Y"
+# GEMINI_API_KEY = "AIzaSyCp-Lueb9tFQbqxQwIcj9On7zPYG9gah_Y"
 
 # def fallback_sql(question: str):
 #     q = question.lower()
